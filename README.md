@@ -13,13 +13,13 @@ This project analyzes app store data from 2008 to 2019 to uncover trends and act
 
 ## 📂 Dataset
 The dataset includes information on:
-- Release Date**: The launch date of each app.
-- Price**: Whether the app is free or paid.
-- In-App Purchases**: Availability of additional paid features or content.
-- Age Rating**: Minimum recommended age for users.
-- Size**: The storage space required by the app.
-- Genre**: Category of the app.
-- Ratings**: User feedback ratings categorized as high, medium, or low.
+- **Release Date**: The launch date of each app.
+- **Price**: Whether the app is free or paid.
+- **In-App Purchases**: Availability of additional paid features or content.
+- **Age Rating**: Minimum recommended age for users.
+- **Size**: The storage space required by the app.
+- **Genre**: Category of the app.
+- **Ratings**: User feedback ratings categorized as high, medium, or low.
 
 ## 🎯 Goals
 - Determine how app size impacts user satisfaction.
