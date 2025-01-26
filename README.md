@@ -3,6 +3,14 @@
 ## 🌟 Overview
 This project analyzes app store data from 2008 to 2019 to uncover trends and actionable insights related to app performance. Key factors investigated include app size, age rating, and in-app purchase offerings. The analysis aims to help developers optimize user satisfaction and improve app development strategies.
 
+## 🛠️ Tools and Libraries
+- **Python**: Data analysis and visualization
+  - `pandas`: Data manipulation and processing
+  - `matplotlib`: Creating visualizations
+  - `seaborn`: Enhancing visualizations
+- **SQL**: Querying and filtering data for analysis
+- **Tableau**: Creating interactive dashboards and visualizations
+
 ## 📂 Dataset
 The dataset includes information on:
 - **Release Date**: The launch date of each app.
@@ -36,13 +44,7 @@ The dataset includes information on:
 - **In-App Purchases**: For free apps, enhance the value of in-app purchases to boost satisfaction. For paid apps, consider avoiding in-app purchases to maintain a premium user experience.
 - **Age-Specific Improvements**: Invest in engaging content for younger audiences while improving quality for apps targeted at older users.
 
-## 🛠️ Tools and Libraries
-- **Python**: Data analysis and visualization
-  - `pandas`: Data manipulation and processing
-  - `matplotlib`: Creating visualizations
-  - `seaborn`: Enhancing visualizations
-- **SQL**: Querying and filtering data for analysis
-- **Tableau**: Creating interactive dashboards and visualizations
+
 
 
 
