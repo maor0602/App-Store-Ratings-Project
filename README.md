@@ -41,7 +41,10 @@ The dataset includes information on:
   - `pandas`: Data manipulation and processing
   - `matplotlib`: Creating visualizations
   - `seaborn`: Enhancing visualizations
-- **PowerPoint**: Presenting findings
+- **SQL**: Querying and filtering data for analysis
+- **Tableau**: Creating interactive dashboards and visualizations
 
-## Project Structure
+
+
+
 
